@@ -1,0 +1,51 @@
+ID,Comprador,Empresa,Vendedor,Cidade,Diretoria,Segmento,Quantidade_Toneladas,Valor_por_Tonelada_R$,Custo_por_Tonelada_R$,Valor_Total_R$,Custo_Total_R$,Lucro_R$,Ano_contrato,Data_Venda,Tempo_Fechamento_Dias,Meta_Mensal_R$,Atingimento_Meta_%,Status
+1,Carlos,Alfa Comércio Ltda,Marcos Vinícius Andrade,Recife,Nordeste,Varejo,209,1855,1525,387695,318725,68970,2025,2023,1,325,95.36,Ativo
+2,Daniel,Beta Soluções Empresariais,Renata Campos Leal,Salvador,Nordeste,Alimentos,171,1744,1510,298224,258210,40014,2025,2023,7,462,51.62,Ativo
+3,Eduardo,Gamma Indústria S.A.,Paulo Henrique Dantas,Salvador,Nordeste,Combustivel,246,1876,1499,461496,368754,92742,2025,2023,11,465,79.45,Ativo
+4,Fernanda,Delta Serviços Corporativos,Simone Figueiredo,Porto Alegre,Sul,Química,223,1879,1554,419017,346542,72475,2025,2023,11,413,81.19,Ativo
+5,Gabriela,Omega Tecnologia Ltda,Ricardo Bastos,Recife,Nordeste,Animal,206,1844,1549,379864,319094,60770,2025,2023,2,273,111.44,Ativo
+6,Henrique,Aurora Distribuidora,Marcos Vinícius Andrade,Belo Horizonte,Sudeste,Varejo,206,1705,1506,351230,310236,40994,2025,2023,4,361,77.87,Ativo
+7,Isabela,Horizonte Logística,Paulo Henrique Dantas,Curitiba,Sul,Alimentos,211,1764,1504,372204,317344,54860,2025,2023,10,311,95.73,Ativo
+8,João,Pioneira Alimentos,Renata Campos Leal,Curitiba,Sul,Combustivel,123,1793,1558,220539,191634,28905,2025,2023,15,339,52.01,Ativo
+9,Karen,Nova Era Agronegócio,Ricardo Bastos,São Paulo,Sudeste,Química,203,1879,1424,381437,289072,92365,2025,2023,13,240,126.89,Ativo
+10,Lucas,Vale Verde Produtos Naturais,Simone Figueiredo,Porto Alegre,Sul,Animal,229,1702,1596,389758,365484,24274,2025,2023,8,459,67.87,Desativo
+11,Mariana,Atlas Consultoria,Marcos Vinícius Andrade,Porto Alegre,Sul,Varejo,229,1878,1490,430062,341210,88852,2025,2023,14,467,73.67,Desativo
+12,Nathalia,Império Comercial,Simone Figueiredo,São Paulo,Sudeste,Alimentos,147,1826,1453,268422,213591,54831,2025,2023,14,345,62.32,Desativo
+13,Otávio,Sol Nascente Exportação,Renata Campos Leal,São Paulo,Sudeste,Combustivel,295,1850,1574,545750,464330,81420,2025,2023,3,453,96.48,Desativo
+14,Paula,Terra Fértil Agro,Paulo Henrique Dantas,Salvador,Nordeste,Química,255,1880,1587,479400,404685,74715,2025,2024,1,250,153.39,Desativo
+15,Rafael,Integra Sistemas,Ricardo Bastos,Porto Alegre,Sul,Animal,230,1772,1585,407560,364550,43010,2025,2024,2,374,87.07,Desativo
+16,Sabrina,Prime Solutions,Renata Campos Leal,Belo Horizonte,Sudeste,Varejo,113,1850,1496,209050,169048,40002,2025,2024,10,454,36.85,Desativo
+17,Thiago,Master Business Group,Marcos Vinícius Andrade,São Paulo,Sudeste,Alimentos,133,1735,1445,230755,192185,38570,2025,2024,13,472,39.10,Desativo
+18,Vanessa,União Mercantil,Ricardo Bastos,Curitiba,Sul,Combustivel,150,1744,1498,261600,224700,36900,2025,2024,9,358,58.49,Desativo
+19,William,Futura Inovações,Simone Figueiredo,Salvador,Nordeste,Química,222,1775,1458,394050,323676,70374,2025,2024,5,278,113.20,Desativo
+20,Olga,Brasil Central Comércio,Paulo Henrique Dantas,Recife,Nordeste,Animal,291,1705,1598,496155,465018,31137,2025,2024,15,272,145.87,Desativo
+21,Marina,StartUp Vision,Ricardo Bastos,Salvador,Nordeste,Varejo,271,1842,1521,499182,412191,86991,2025,2024,7,241,165.65,Desativo
+22,Mariana,Avante Corporações,Paulo Henrique Dantas,Salvador,Nordeste,Alimentos,126,1814,1467,228564,184842,43722,2025,2024,6,277,66.02,Desativo
+23,Isabelle,Evoluir Gestão,Marcos Vinícius Andrade,Rio de Janeiro,Sudeste,Combustivel,211,1755,1587,370305,334857,35448,2025,2024,1,253,117.18,Desativo
+24,Claudio,Nobreza Empresarial,Renata Campos Leal,São Paulo,Sudeste,Química,92,1853,1584,170476,145728,24748,2025,2024,6,314,43.47,Ativo
+25,Claudia,Global Trade Brasil,Simone Figueiredo,Porto Alegre,Sul,Animal,156,1805,1420,281580,221520,60060,2025,2024,3,252,89.25,Desativo
+26,Ines,Fortaleza Supply,Marcos Vinícius Andrade,Porto Alegre,Sul,Varejo,214,1812,1479,387768,316506,71262,2025,2023,14,455,68.18,Ativo
+27,Lila,Capital Prime,Ricardo Bastos,Porto Alegre,Sul,Alimentos,131,1744,1518,228464,198858,29606,2025,2025,7,282,64.84,Ativo
+28,Lola,Rota Estratégica,Renata Campos Leal,Salvador,Nordeste,Combustivel,107,1741,1502,186287,160714,25573,2025,2025,1,392,38.00,Ativo
+29,João,AgroMais Distribuição,Paulo Henrique Dantas,Belo Horizonte,Sudeste,Química,100,1845,1517,184500,151700,32800,2025,2025,4,351,42.02,Ativo
+30,Pedro,Visionary Tech,Simone Figueiredo,Belo Horizonte,Sudeste,Animal,201,1777,1559,357177,313359,43818,2025,2025,9,346,82.49,Desativo
+31,Kethelyn,Pleno Desenvolvimento,Marcos Vinícius Andrade,Belo Horizonte,Sudeste,Varejo,159,1793,1549,285087,246291,38796,2025,2025,1,386,59.08,Desativo
+32,Samara,Raiz Brasileira Alimentos,Ricardo Bastos,Rio de Janeiro,Sudeste,Alimentos,255,1749,1504,445995,383520,62475,2025,2025,15,384,92.90,Desativo
+33,Tomas,EcoVida Sustentável,Simone Figueiredo,Rio de Janeiro,Sudeste,Combustivel,173,1749,1544,302577,267112,35465,2025,2025,12,455,53.24,Desativo
+34,Bruno Santos,Progresso Empresarial,Renata Campos Leal,Curitiba,Sul,Química,279,1726,1419,481554,395901,85653,2025,2025,1,296,130.22,Ativo
+35,Daniel Ferreira,Conecta Negócios,Paulo Henrique Dantas,Rio de Janeiro,Sudeste,Varejo,199,1786,1493,355414,297107,58307,2025,2025,6,407,69.89,Desativo
+36,Eduardo Lima,Elite Solutions,Renata Campos Leal,Curitiba,Sul,Alimentos,188,1720,1414,323360,265832,57528,2025,2025,3,445,58.10,Desativo
+37,Fernanda Alves,Mercado Forte,Marcos Vinícius Andrade,Porto Alegre,Sul,Combustivel,184,1813,1528,333592,281152,52440,2025,2025,5,439,60.84,Ativo
+38,Gabriel Costa,Expansão Global,Ricardo Bastos,Porto Alegre,Sul,Química,93,1716,1585,159588,147405,12183,2025,2025,5,284,44.91,Desativo
+39,Helena Martin,Safra Boa Esperança,Simone Figueiredo,Recife,Nordeste,Animal,232,1741,1420,403912,329440,74472,2025,2023,12,273,118.51,Ativo
+40,André Guimarães,Alfa Prime Negócios Ltda,Paulo Henrique Dantas,Belo Horizonte,Sudeste,Varejo,218,1877,1433,409186,312394,96792,2025,2023,4,332,98.62,Ativo
+41,Bianca Lacerda,Horizonte Azul Comércio,Marcos Vinícius Andrade,Belo Horizonte,Sudeste,Alimentos,91,1733,1582,157703,143962,13741,2025,2023,1,472,26.75,Ativo
+42,Caio Montenegro,Nova Safra Agronegócio,Renata Campos Leal,Belo Horizonte,Sudeste,Combustivel,81,1890,1588,153090,128628,24462,2025,2023,4,334,36.62,Ativo
+43,Débora Siqueira,Vale Forte Distribuidora,Simone Figueiredo,Porto Alegre,Sul,Química,117,1856,1481,217152,173277,43875,2025,2023,7,467,37.20,Desativo
+44,Everton Paiva,Atlas Soluções Corporativas,Ricardo Bastos,Belo Horizonte,Sudeste,Animal,291,1720,1500,500520,436500,64020,2025,2023,11,474,84.43,Desativo
+45,Fábio Mendonça,Império Verde Alimentos,Paulo Henrique Dantas,Belo Horizonte,Sudeste,Varejo,234,1887,1563,441558,365742,75816,2025,2023,4,245,144.48,Desativo
+46,Jéssica Loureiro,Terra Nova Exportação,Renata Campos Leal,São Paulo,Sudeste,Alimentos,102,1746,1593,178092,162486,15606,2025,2023,15,271,52.53,Ativo
+47,Leonardo Cunha,Capital Essencial Ltda,Marcos Vinícius Andrade,São Paulo,Sudeste,Combustivel,138,1727,1413,238326,194994,43332,2025,2023,8,349,54.59,Ativo
+48,Patrícia Neve,Raiz do Campo Alimentos,Simone Figueiredo,Rio de Janeiro,Sudeste,Química,271,1743,1403,472353,380213,92140,2025,2023,5,416,90.91,Ativo
+49,Samuel Rocha,Integra Mais Serviços,Ricardo Bastos,Salvador,Nordeste,Animal,162,1719,1579,278478,255798,22680,2025,2023,4,313,71.23,Desativo
+50,Tatiane Pimentel,Evoluir Gestão Empresarial,Paulo Henrique Dantas,São Paulo,Sudeste,Varejo,298,1811,1440,539678,429120,110558,2025,2023,9,364,118.60,Ativo
